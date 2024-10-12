@@ -1,4 +1,4 @@
-use std::fmt::format;
+
 use actix_web::{App, HttpServer, Responder};
 
 #[actix_web::get("/greet")]
